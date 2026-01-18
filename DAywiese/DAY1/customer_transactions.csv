@@ -1,0 +1,7 @@
+transaction_id,customer_id,amount,transaction_date,country
+T001,C001,1200,2025-01-10,IN
+T002,C002,-500,2025-01-11,IN
+T003,,800,2025-01-12,US
+T004,C004,1500,,UK
+T005,C005,0,2025-01-13,IN
+T006,C006,2200,2025-01-14,US
